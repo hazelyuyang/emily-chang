@@ -1,0 +1,13 @@
+.List li {
+    color: #9F9F9F;
+    margin: 0;
+}
+
+.List p {
+    color: #333333;
+    margin: 0;
+}
+
+.List .jobTitle {
+    font-weight: 700;
+}
