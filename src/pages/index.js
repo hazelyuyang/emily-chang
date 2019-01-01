@@ -121,7 +121,7 @@ export default () => (
                 <h3><span className="underline">作品</span></h3>
                 <div className="worksList">
                     <Works 
-                        image={require('../images/finding-soul.png')}
+                        image={require('../images/finding-soul.jpg')}
                         text="超少年密碼"
                     />
                     <Works 
